@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I am a first year student at The University of Texas in Austin studying computer science. I am working towards a bachelor's and should be done around May 2023. My interests are naturally drawn to artificial intelligence and machine learning. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy many other things besides software. To name a few, I like to dance, play soccer, and draw.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bernal.daniel180@utexas.edu](mailto:bernal.daniel180@utexas.edu)
